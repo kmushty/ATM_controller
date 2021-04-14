@@ -45,7 +45,7 @@ bool login() {
 
 int getUserOption () {
 
-	int selectedOption = ;
+	int selectedOption = -1;
 
 	cout << "Main menu:" << endl;
 	cout << "	1 - View my balance" << endl;
