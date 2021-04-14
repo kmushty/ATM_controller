@@ -16,6 +16,9 @@ Simple ATM Controller that can perform the following tasks:
 
 The implementation method is as follows: Insert Card => PIN number => Select Account => See Balance/Deposit/Withdraw
 
+Account number: 12345
+Pin: 6197
+
 ## Standard install via command-line
 ```
 git clone --recursive https://github.com/kmushty/ATM_controller
